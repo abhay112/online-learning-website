@@ -45,5 +45,19 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rasif-Taghizada/Educational-Website-ReactJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rasif-Taghizada/Educational-Website-ReactJs/issues"
+  },
+  "homepage": "https://github.com/Rasif-Taghizada/Educational-Website-ReactJs#readme",
+  "description": ""
 }
